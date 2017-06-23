@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="org.mockito.MockitoAnnotations.initMocks(testClass)" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="false" />
+  </component>
+</application>

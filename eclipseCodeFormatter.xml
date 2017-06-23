@@ -1,0 +1,17 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1423027093139" />
+          <option name="importOrder" value="com;java;javax;org;ru;" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="/opt/wrk/dc-eclipse-java-formatter.xml" />
+          <option name="selectedJavaProfile" value="dc-eclipse-java-formatter" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
