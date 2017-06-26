@@ -2,17 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.xl</mask>
-      <mask>*.xls</mask>
-      <mask>*.jsbs</mask>
-      <mask>*.jsb</mask>
-      <mask>*.js</mask>
-      <mask>*.чь</mask>
-      <mask>*.ч</mask>
       <mask>*.xn</mask>
       <mask>*.о</mask>
       <mask>*.рф</mask>
@@ -32,10 +24,17 @@
       <mask>*.ыйд</mask>
       <mask>*.ый</mask>
       <mask>*.ы</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
