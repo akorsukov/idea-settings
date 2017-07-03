@@ -1,5 +1,5 @@
 <application>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="/opt/wrk/krypton" />
+    <option name="PATCH_STORAGE_LOCATION" value="/tmp" />
   </component>
 </application>
