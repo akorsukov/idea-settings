@@ -1,19 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.xs</mask>
-      <mask>*.xsl</mask>
-      <mask>*.ыйд</mask>
-      <mask>*.ый</mask>
-      <mask>*.ы</mask>
-      <mask>p</mask>
-      <mask>po</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
@@ -27,7 +21,6 @@
       <mask>*Te.java</mask>
       <mask>*Tes.java</mask>
       <mask>*Test.java</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pom</mask>
       <mask>.pom</mask>
@@ -36,6 +29,15 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>om.xml</mask>
+      <mask>m.xml</mask>
+      <mask>.xml</mask>
+      <mask>xml</mask>
+      <mask>*xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.jaxml</mask>
+      <mask>*.javaxml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
