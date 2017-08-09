@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
@@ -24,11 +24,6 @@
       <mask>*.p</mask>
       <mask>*.pom</mask>
       <mask>.pom</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>om.xml</mask>
       <mask>m.xml</mask>
       <mask>.xml</mask>
@@ -38,6 +33,12 @@
       <mask>*.jaxml</mask>
       <mask>*.javaxml</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
