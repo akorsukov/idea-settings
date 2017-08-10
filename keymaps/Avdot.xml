@@ -44,6 +44,12 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ByteCodeDecompiler">
+    <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="d" />
+  </action>
+  <action id="ByteCodeViewer">
+    <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="b" />
+  </action>
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl s" />
   </action>
