@@ -56,10 +56,13 @@
     <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
     <option name="ALIGN_INSIDE_BINARY_EXPRESSION" value="false" />
+    <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
     <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="DISABLE_FORMATTING" value="true" />
     <option name="TYPE_CASE" value="1" />
     <option name="IDENTIFIER_CASE" value="1" />
-    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
@@ -105,6 +108,11 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
