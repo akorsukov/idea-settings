@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Test.java</mask>
-      <mask>*.p</mask>
-      <mask>*.pom</mask>
-      <mask>.pom</mask>
-      <mask>om.xml</mask>
-      <mask>m.xml</mask>
       <mask>.xml</mask>
       <mask>xml</mask>
       <mask>*xml</mask>
@@ -26,11 +21,6 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.m</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
@@ -38,6 +28,17 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.оф</mask>
+      <mask>*.=</mask>
+      <mask>*.р</mask>
+      <mask>*.ор</mask>
+      <mask>*.о</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
