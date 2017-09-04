@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>*.m</mask>
       <mask>*.оф</mask>
       <mask>*.=</mask>
@@ -32,9 +31,10 @@
       <mask>*.java</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>p</mask>
       <mask>pom.xml</mask>
+      <mask>s</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
