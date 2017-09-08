@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.о</mask>
       <mask>*.чы</mask>
@@ -14,8 +16,6 @@
       <mask>*.ava</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>p</mask>
       <mask>pom.xml</mask>
@@ -29,12 +29,14 @@
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xs</mask>
       <mask>*.xsl</mask>
       <mask>*.sl</mask>
       <mask>*.sql</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
