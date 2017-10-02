@@ -6,6 +6,7 @@
       <mapping pattern="#Untitled-1#" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="080_events.sql" type="PLAIN_TEXT" />
       <mapping ext="sql_" type="PLAIN_TEXT" />
       <mapping ext="527735" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
