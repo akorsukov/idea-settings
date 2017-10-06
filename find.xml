@@ -5,10 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.xsl</mask>
-      <mask>*.sl</mask>
       <mask>*.jaa</mask>
       <mask>*.оф</mask>
       <mask>*.о</mask>
@@ -25,10 +23,6 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.f</mask>
       <mask>*.fl</mask>
       <mask>*.flt</mask>
@@ -37,6 +31,12 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.ый</mask>
+      <mask>*.ы</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
