@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jaa</mask>
       <mask>*.оф</mask>
       <mask>*.о</mask>
       <mask>*.РФ</mask>
       <mask>*.Р</mask>
-      <mask>*.jav</mask>
       <mask>8</mask>
       <mask>*s</mask>
       <mask>p</mask>
@@ -26,14 +26,15 @@
       <mask>*.ft</mask>
       <mask>*.ftl</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.ый</mask>
       <mask>*.ы</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
