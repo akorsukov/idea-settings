@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jrxml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.РФ</mask>
       <mask>*.Р</mask>
@@ -25,16 +25,16 @@
       <mask>*.ый</mask>
       <mask>*.ы</mask>
       <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.jr</mask>
       <mask>*.jrx</mask>
       <mask>*.jrxml</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
