@@ -25,15 +25,15 @@
       <mask>*.ы</mask>
       <mask>*.</mask>
       <mask>*.jav</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.j</mask>
       <mask>*.jr</mask>
       <mask>*.jrx</mask>
       <mask>*.jrxml</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
