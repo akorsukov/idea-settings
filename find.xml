@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="V_5_5_0" />
     <recentFileMasks>
-      <mask>*.ый</mask>
-      <mask>*.ы</mask>
-      <mask>*.jr</mask>
-      <mask>*.jrx</mask>
-      <mask>*.jrxml</mask>
-      <mask>*.офм</mask>
-      <mask>*.оф</mask>
-      <mask>*.о</mask>
-      <mask>*.РФ</mask>
-      <mask>*.Р</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>'</mask>
-      <mask>'33'</mask>
-      <mask>'3'</mask>
-      <mask>''</mask>
-      <mask>'1'</mask>
-      <mask>'18'</mask>
-      <mask>*,</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq.</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>V*.xml</mask>
+      <mask>V_*.xml</mask>
+      <mask>V_5*.xml</mask>
+      <mask>V_5_*.xml</mask>
+      <mask>V_5_5*.xml</mask>
+      <mask>V_5_5_*.xml</mask>
+      <mask>V_5_5_0*.xml</mask>
+      <mask>V_5_5_0*.s</mask>
+      <mask>V_5_5_0*.sq</mask>
+      <mask>V_5_5_0*.sql</mask>
+      <mask>.*.sql</mask>
+      <mask>*.sql</mask>
+      <mask>/*.sql</mask>
+      <mask>V/*.sql</mask>
+      <mask>V_/*.sql</mask>
+      <mask>V_5/*.sql</mask>
+      <mask>V_5_/*.sql</mask>
+      <mask>V_5_5/*.sql</mask>
+      <mask>V_5_5_/*.sql</mask>
+      <mask>V_5_5_0/*.sql</mask>
+      <mask>V_5_5_0/**.sql</mask>
+      <mask>V_5_5_0</mask>
     </recentFileMasks>
   </component>
 </application>
