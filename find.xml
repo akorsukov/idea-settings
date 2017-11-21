@@ -5,15 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq.</mask>
-      <mask>*.sq</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>V*.xml</mask>
       <mask>V_*.xml</mask>
       <mask>V_5*.xml</mask>
@@ -25,7 +18,6 @@
       <mask>V_5_5_0*.sq</mask>
       <mask>V_5_5_0*.sql</mask>
       <mask>.*.sql</mask>
-      <mask>*.sql</mask>
       <mask>/*.sql</mask>
       <mask>V/*.sql</mask>
       <mask>V_/*.sql</mask>
@@ -36,6 +28,15 @@
       <mask>V_5_5_0/*.sql</mask>
       <mask>V_5_5_0/**.sql</mask>
       <mask>V_5_5_0</mask>
+      <mask>sql</mask>
+      <mask>sq</mask>
+      <mask>s</mask>
+      <mask>*q</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
