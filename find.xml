@@ -5,15 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>V*.xml</mask>
-      <mask>V_*.xml</mask>
-      <mask>V_5*.xml</mask>
-      <mask>V_5_*.xml</mask>
-      <mask>V_5_5*.xml</mask>
-      <mask>V_5_5_*.xml</mask>
-      <mask>V_5_5_0*.xml</mask>
       <mask>V_5_5_0*.s</mask>
       <mask>V_5_5_0*.sq</mask>
       <mask>V_5_5_0*.sql</mask>
@@ -37,6 +29,13 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
