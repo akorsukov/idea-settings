@@ -5,19 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*Web*.java" />
     <recentFileMasks>
-      <mask>V_/*.sql</mask>
-      <mask>V_5/*.sql</mask>
-      <mask>V_5_/*.sql</mask>
-      <mask>V_5_5/*.sql</mask>
-      <mask>V_5_5_/*.sql</mask>
-      <mask>V_5_5_0/*.sql</mask>
-      <mask>V_5_5_0/**.sql</mask>
-      <mask>V_5_5_0</mask>
-      <mask>sql</mask>
-      <mask>sq</mask>
-      <mask>s</mask>
       <mask>*q</mask>
       <mask>*.sq</mask>
       <mask>p</mask>
@@ -37,6 +26,17 @@
       <mask>*.a</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
+      <mask>.sql</mask>
+      <mask>W.sql</mask>
+      <mask>WE.sql</mask>
+      <mask>We.sql</mask>
+      <mask>Web.sql</mask>
+      <mask>Web*.sql</mask>
+      <mask>Web*.j</mask>
+      <mask>Web*.ja</mask>
+      <mask>Web*.jav</mask>
+      <mask>Web*.java</mask>
+      <mask>*Web*.java</mask>
     </recentFileMasks>
   </component>
 </application>
