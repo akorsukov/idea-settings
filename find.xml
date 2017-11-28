@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xsl" />
     <recentFileMasks>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
@@ -31,12 +29,14 @@
       <mask>Web*.jav</mask>
       <mask>Web*.java</mask>
       <mask>*Web*.java</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>*.jaa</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
