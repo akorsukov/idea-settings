@@ -7,22 +7,13 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.sql</mask>
-      <mask>.sql</mask>
-      <mask>W.sql</mask>
-      <mask>WE.sql</mask>
-      <mask>We.sql</mask>
-      <mask>Web.sql</mask>
       <mask>Web*.sql</mask>
       <mask>Web*.j</mask>
       <mask>Web*.ja</mask>
       <mask>Web*.jav</mask>
       <mask>Web*.java</mask>
       <mask>*Web*.java</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.jaa</mask>
-      <mask>*.x</mask>
       <mask>*.xs</mask>
       <mask>*.xsl</mask>
       <mask>p</mask>
@@ -34,8 +25,17 @@
       <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*.jva</mask>
+      <mask>*.jv</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
