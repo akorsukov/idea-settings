@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.jaa</mask>
-      <mask>pom.xm.</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
@@ -28,13 +25,16 @@
       <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*s</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*.c</mask>
+      <mask>*.cl</mask>
+      <mask>*.cli</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
