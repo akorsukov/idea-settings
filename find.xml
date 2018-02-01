@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.jva</mask>
@@ -32,10 +30,10 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.xsl</mask>
-      <mask>pom.xml</mask>
       <mask>*Test.java</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
