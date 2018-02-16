@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*V_6_2_0*" />
     <recentFileMasks>
-      <mask>*.jv</mask>
       <mask>*.hav</mask>
       <mask>*.ha</mask>
       <mask>*.hj</mask>
@@ -39,6 +38,7 @@
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>*V_6_2_0*</mask>
     </recentFileMasks>
   </component>
 </application>
