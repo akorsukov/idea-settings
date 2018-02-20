@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.xsl" />
     <recentFileMasks>
       <mask>*.hav</mask>
       <mask>*.ha</mask>
@@ -32,13 +32,13 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.xsl</mask>
       <mask>*Test.java</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*V_6_2_0*</mask>
       <mask>*.sql</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
