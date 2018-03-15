@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.ha</mask>
       <mask>*.hj</mask>
       <mask>*.h</mask>
       <mask>*.x</mask>
@@ -34,6 +33,7 @@
       <mask>*.fxml</mask>
       <mask>*.java</mask>
       <mask>*.xsl</mask>
+      <mask>*.Java</mask>
       <mask>*.sql</mask>
     </recentFileMasks>
   </component>
