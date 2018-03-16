@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.hj</mask>
       <mask>*.h</mask>
@@ -32,9 +32,9 @@
       <mask>*V_6_2_0*</mask>
       <mask>*.fxml</mask>
       <mask>*.Java</mask>
-      <mask>*.java</mask>
       <mask>*.xsl</mask>
       <mask>*.sql</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
