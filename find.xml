@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.xsl" />
     <recentFileMasks>
       <mask>*.hj</mask>
       <mask>*.h</mask>
@@ -33,10 +33,10 @@
       <mask>*V_6_2_0*</mask>
       <mask>*.fxml</mask>
       <mask>*.Java</mask>
-      <mask>*.xsl</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.sql</mask>
+      <mask>*.xsl</mask>
     </recentFileMasks>
   </component>
 </application>
